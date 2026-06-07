@@ -54,9 +54,7 @@ The cleaned datasets were pulled into Power BI to create an interactive, cross-f
 * **Category Penetration:** Visualizes revenue split by department—identifying **Clothing** ($104K / 1.7K orders) and **Accessories** ($74K / 1.2K orders) as primary business engines over Footwear and Outerwear.
 * **Subscription Ratios:** Clearly charts the 27% (Yes) to 73% (No) subscription split to identify conversion opportunities.
 
-![Customer Behavior Dashboard](customers_behavior_dashboard.pdf) 
-*(Note: Replace this path with your uploaded image filename, e.g., `images/dashboard.png`, once added to your repo)*
-
+![Customer Behavior Dashboard](Dashboard_preview.png) 
 ---
 
 ## 📌 Strategic Business Recommendations
